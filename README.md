@@ -30,6 +30,10 @@ Welcome to the official repository of my personal portfolio website. This respon
 
 ---
 
+## 🔗 Live Demo
+👉 [View the app here](https://ktj-ass-4.vercel.app/)  
+
+---
 
 ## 👨‍🎓 About Me
 
