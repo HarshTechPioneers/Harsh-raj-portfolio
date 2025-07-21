@@ -29,9 +29,9 @@ Welcome to the official repository of my personal portfolio website. This respon
 - Optional: EmailJS, AOS.js (for animations)
 
 ---
-
 ## 🔗 Live Demo
-👉 [View the app here](https://ktj-ass-4.vercel.app/)  
+Check out the live version of my Portfolio project here: 👉 [Live Demo](https://harshtechpioneers.github.io/Harsh-raj-portfolio/)
+ 
 
 ---
 
